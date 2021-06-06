@@ -8,6 +8,7 @@ by Bob Rost
 #include "BMPImage.h"
 #include <vector>
 #include <math.h>
+#include <cstring>
 
 #define Fail(er) {printf("%s\n",er);return 0;}
 
