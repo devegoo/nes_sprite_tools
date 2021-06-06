@@ -1,4 +1,0 @@
-cd source/
-make clean
-gcc *.cpp
-make
